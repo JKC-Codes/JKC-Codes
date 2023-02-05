@@ -6,6 +6,11 @@
 	</a>
 	&nbsp;
 	&nbsp;
+	<a href="https://mastodonapp.uk/@jkc_codes">
+			<img src="./icon-mastodon.svg" alt="Mastodon logo" width="75" height="75">
+	</a>
+	&nbsp;
+	&nbsp;
 	<a href="https://twitter.com/jkc_codes/">
 			<img src="./icon-twitter.svg" alt="Twitter logo" width="75" height="75">
 	</a>
